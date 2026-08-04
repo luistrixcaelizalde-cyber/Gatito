@@ -8,7 +8,7 @@ const questions = [
   {
     id: 3,
     tag: '// módulo: entretenimiento.exe',
-    text: '🎬 Noche de películas — ¿qué genero seleccionas?',
+    text: '🎬 ¿Qué película desea ver mi Reina? — ¿qué genero seleccionas?',
     options: [
       '🚀 Sci-Fi — universos paralelos',
       '🕵️ Thriller psicológico — glitches en la matrix',
@@ -19,21 +19,21 @@ const questions = [
   {
     id: 4,
     tag: '// módulo: actividades_sociales.config',
-    text: '📍 Primera cita — ¿qué instancia ejecutamos?',
+    text: '📍 Actividad de la cita — ¿qué instancia ejecutamos?',
     options: [
       '☕ Café + código — pair programming romántico',
-      '🔭 Planetario — explorar el universo juntos',
+      '🔭 Turístico — explorar cosas news de la ciudad',
       '🎮 Arcade vintage — retro & chill',
-      '📚 Librería + helado — the OG nerd date',
+      '📚 La casa del acertijo + helado — the OG nerd date',
     ],
   },
   {
     id: 5,
     tag: '// módulo: nutrición_social.dat',
-    text: '🍽 Escoge el stack gastronómico de la noche',
+    text: '🍽 Escoge el stack gastronómico de la cita',
     options: [
       '🍕 Pizza — el stack más sólido de la gastronomía 🍕',
-      '🍣 Sushi — raw data sin procesar 🍣',
+      '🍗 KFC — raw data sin procesar 🍗',
       '🍔 Burger — arquitectura en capas de sabor 🍔',
       '🌮 Tacos — open source & altamente customizable 🌮',
     ],
@@ -43,10 +43,10 @@ const questions = [
     tag: '// módulo: nivel_compromiso.final',
     text: '✨ Después de la cita... ¿qué hacemos? (hypothetically 👀)',
     options: [
-      '🌙 Paseo nocturno con debate filosófico',
-      '🎵 Playlist compartida en bucle infinito',
+      '🌙 Paseo filosófico',
+      '🎵 Escuchar música acostaditos',
       '🎲 Board game maratón — ganador elige la próxima cita',
-      '🌠 Ver las estrellas — con o sin telescopio',
+      '💪 Ejercicio — sino avanzo yo te apoyo',
     ],
   },
 ];
